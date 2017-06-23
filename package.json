@@ -1,5 +1,5 @@
 {
-  "name": "front_end_design_with_REACTJS",
+  "name": "front-end-web-design-with-REACTJS",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsokpo/front_end_design_with_REACTJS.git"
+    "url": "git+https://github.com/jsokpo/front-end-web-design-with-REACTJS.git"
   },
   "keywords": [
     "Frontendadvanced",
