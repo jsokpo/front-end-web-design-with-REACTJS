@@ -25,4 +25,4 @@ git clone https://github.com/jsokpo/front-end-web-design-with-REACTJS.git
 
 2. Change directory to the `front-end-web-design-with-REACTJS` folder and run `npm install`
 3. Run `npm start` to start the server.
-4. Visit `http://localhost:3000` to see the site in action.
+4. Visit `http://localhost:3000` to see the site in display.
