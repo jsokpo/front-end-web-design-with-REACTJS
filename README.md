@@ -3,7 +3,7 @@ Sr. Front End Web Designer Crossover Project Evaluation
 
 ### About the project
 
-This project tech trial aims to shows the integrations and dependences of REACTJS in a web page data design.
+This project tech trial aims to shows the integrations and dependences of rendered data components in a web app data.
 The solution is built with a modern MVVM/MVP/MVCjs architecture. This tech trial was intended to be a test 
 on developing enterprise software solution. The design is for a single list with elements that can expand 
 and contract, with only one element open at a time. Other notable libraries used in this project are:
